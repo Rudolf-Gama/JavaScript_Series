@@ -16,7 +16,7 @@ const user = {
 //output:{}  empty object
 
 
-//+++++++++++++++++++ functions Declaration types
+//--------------------------------functions Declaration types
 
 // function chai(){
 //     let username = "hitesh"
@@ -37,7 +37,7 @@ const chai = () => {
 // chai()
 
 
-//+++++++++++++++++
+//----------------------------------------------------------------------
 
 //Explicit return { } must haev return included inside curley braces
 
