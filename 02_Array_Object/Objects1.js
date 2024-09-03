@@ -31,7 +31,7 @@ JsUser.greeting = function(){
     console.log("Hello JS user");
 }
 JsUser.greetingTwo = function(){
-    console.log(`Hello JS user, ${this.name}`);     //this keyword to access the object withint he scope
+    console.log(`Hello JS user, ${this.name}`);     //this keyword to access the object within the scope
 }
 
 console.log(JsUser.greeting());    

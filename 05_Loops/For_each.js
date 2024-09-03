@@ -2,7 +2,7 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
 
 //It has a callback so function cant have a name to it 
 
-// coding.forEach( function (val){
+// coding.forEach(function (val){
 //     console.log(val);
 // } )
 
@@ -55,7 +55,7 @@ myCoding.forEach( (item) => {
 
 const mycode=myCoding.forEach( (item) => {
     //  console.log(item.languageName);
-    //return item;
+    //  return item;
    } )
    
 //console.log(mycode);  //undefined
